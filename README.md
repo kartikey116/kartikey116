@@ -1,54 +1,263 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bm96bm96bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60bmHn3NfWn3YvX3/giphy.gif" width="35"> Hi, I'm Kartikey
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
----
-
-### 💫 About Me
-- 🔭 **Focusing on:** Building scalable web applications and high-performance backends.
-- 🎓 **Education:** Pursuing CSE-DS(B.TECH) at ABES ENGINEERING COLLEGE GHAZIABAD.
-- 🚀 **Goals:** To contribute to meaningful open-source projects and master System Design.
-- ⚡ **Fun Fact:** I spend way too much time perfecting my VS Code theme.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-
----
-
-### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikey116&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey116&layout=compact&theme=tokyonight"/>
+
+# Kartikey Upadhyay
+
+### Full-Stack Developer · AI / LLM Engineer
+
+**Building intelligent products with clean architecture and practical engineering.**
+
+<br/>
+
+<a href="https://linkedin.com/in/kartikey-upadhyay/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://personal-portfolio-henna-six-59.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:kartikeyu07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kartikey116&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views"/>
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey116&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
+
+## `01` — About Me
+
+```text
+I enjoy turning complex problems into useful software.
+```
+
+I'm a Computer Science and Engineering — Data Science student at
+**ABES Engineering College, Ghaziabad**, focused on full-stack development,
+backend engineering, and AI-powered applications.
+
+My interests lie at the intersection of:
+
+- Building full-stack products with the MERN ecosystem.
+- Designing reliable backends and asynchronous workflows.
+- Exploring RAG, LLM applications, and semantic search.
+- Understanding system design and scalable architectures.
+- Learning by building projects that solve practical problems.
+
+> Build with purpose. Understand the system. Improve continuously.
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/kartikey-upadhyay/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kartikeyu07@gmaul.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://personal-portfolio-henna-six-59.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+## `02` — Engineering Stack
+
+<div align="center">
+
+### APPLICATION LAYER
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js" alt="Frontend technologies"/>
+
+<br/>
+
+### BACKEND & DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql,postgres,redis" alt="Backend and database technologies"/>
+
+<br/>
+
+### AI / LLM
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLM%20APIs-161B22?style=for-the-badge&logoColor=white" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Embeddings-161B22?style=for-the-badge" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Vector%20Search-161B22?style=for-the-badge" alt="Vector Search"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-161B22?style=for-the-badge" alt="Semantic Search"/>
+
+<br/><br/>
+
+### INFRASTRUCTURE & TOOLS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,linux" alt="Infrastructure and development tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Redis%20%7C%20BullMQ-161B22?style=flat-square" alt="Redis and BullMQ"/>
+<img src="https://img.shields.io/badge/Message%20Queues-161B22?style=flat-square" alt="Message queues"/>
+<img src="https://img.shields.io/badge/System%20Design-161B22?style=flat-square" alt="System design"/>
+
+</div>
 
 ---
-<p align="center">⭐️ From Kartikey</p>
+
+## `03` — What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Full-Stack Products
+
+Building complete applications with thoughtful frontend experiences, robust APIs, and well-structured data models.
+
+**Focus:** MERN · REST APIs · Authentication · Databases
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI-Powered Applications
+
+Exploring how LLMs, retrieval, and semantic search can make software more useful and context-aware.
+
+**Focus:** RAG · Embeddings · LLM APIs · AI workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+Learning to design services that process work reliably, handle background jobs, and scale with demand.
+
+**Focus:** Redis · BullMQ · Queues · System Design
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Developer Tools
+
+Interested in tools that understand codebases, improve developer workflows, and make complex information easier to navigate.
+
+**Focus:** Code intelligence · Search · Context retrieval
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — Featured Work
+
+### Vṛttāntam
+
+**AI-Powered Resume Ecosystem**
+
+> An AI-driven resume platform designed to help professionals create,
+> improve, and optimize resumes for ATS-oriented workflows.
+
+| Area | Implementation |
+| :--- | :--- |
+| Frontend & Backend | React.js · Node.js · Express |
+| Data & Processing | MongoDB · Redis · BullMQ |
+| AI | Google Gemini API |
+| Storage | AWS S3 |
+
+**Engineering highlights**
+
+- Full-stack resume-building experience.
+- AI-assisted resume optimization.
+- Asynchronous processing with Redis and BullMQ.
+- Cloud-based file storage and backend services.
+
+<a href="https://github.com/kartikey116">
+  <img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
+</a>
+
+---
+
+### Event-Driven Order Processing
+
+**Backend Systems · Asynchronous Workflows**
+
+Exploring reliable order processing through service separation,
+persistent data, and event-driven backend workflows.
+
+**Key areas**
+
+- Backend service architecture.
+- Order lifecycle and background processing.
+- Database persistence.
+- Containerized development with Docker.
+
+<a href="https://github.com/kartikey116">
+  <img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
+</a>
+
+---
+
+### Local Codebase Context Engine
+
+**Code Intelligence · RAG · Semantic Search**
+
+An exploration into a local developer tool that indexes repository files
+and retrieves relevant code context for coding queries.
+
+**Key areas**
+
+- Code-aware repository indexing.
+- Semantic search over source files.
+- Context retrieval for developer questions.
+- Exploring syntax-tree-based code understanding.
+
+<a href="https://github.com/kartikey116">
+  <img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
+</a>
+
+---
+
+## `05` — Currently Exploring
+
+<div align="center">
+
+| Topic | Direction |
+| :--- | :--- |
+| `01` | System Design & Scalable Architecture |
+| `02` | RAG Optimization & Retrieval Quality |
+| `03` | Event-Driven & Distributed Systems |
+| `04` | AI-Powered Developer Tools |
+| `05` | Data Structures & Algorithms |
+
+</div>
+
+---
+
+## `06` — GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikey116&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey116&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey116&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `07` — Let's Connect
+
+<div align="center">
+
+**Interested in building, learning, and solving meaningful technical problems?**
+
+<br/>
+
+<a href="https://linkedin.com/in/kartikey-upadhyay/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://personal-portfolio-henna-six-59.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+`From ideas to intelligent products.`
+
+</div>
