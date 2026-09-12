@@ -270,19 +270,36 @@ repository files and retrieves relevant code context for coding queries.
 
 ---
 
+
+---
+
 ## `06` — GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikey116&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey116&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kartikey116&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
+  alt="Kartikey's GitHub statistics"
+/>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey116&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey116&layout=compact&hide_border=true&theme=github_dark"
+  alt="Kartikey's most used programming languages"
+/>
+
+<br />
+
+<img
+  src="https://github-readme-streak-stats.demolab.com?user=kartikey116&theme=github-dark-blue&hide_border=true"
+  alt="Kartikey's GitHub contribution streak"
+/>
 
 </div>
+
+---
+
 
 ---
 
