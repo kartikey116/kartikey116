@@ -93,119 +93,164 @@ My interests lie at the intersection of:
 
 ---
 
+
 ## `03` — What I Build
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### ⚡ Full-Stack Products
+### 🧠 AI Engineering
 
-Building complete applications with thoughtful frontend experiences, robust APIs, and well-structured data models.
+Building intelligent applications that combine LLMs, retrieval, and useful user experiences.
 
-**Focus:** MERN · REST APIs · Authentication · Databases
+**RAG · LLM APIs · Embeddings · Semantic Search**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🧠 AI-Powered Applications
+### ⚡ Full-Stack Development
 
-Exploring how LLMs, retrieval, and semantic search can make software more useful and context-aware.
+Turning ideas into complete products with modern interfaces, reliable APIs, and structured data.
 
-**Focus:** RAG · Embeddings · LLM APIs · AI workflows
+**React · Node.js · Express · MongoDB**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### ⚙️ Backend Systems
+### ⚙️ Backend Engineering
 
-Learning to design services that process work reliably, handle background jobs, and scale with demand.
+Designing reliable services with asynchronous processing, background jobs, and scalable workflows.
 
-**Focus:** Redis · BullMQ · Queues · System Design
+**Redis · BullMQ · REST APIs · System Design**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 ### 🔍 Developer Tools
 
-Interested in tools that understand codebases, improve developer workflows, and make complex information easier to navigate.
+Exploring tools that understand codebases and help developers find, navigate, and use information more effectively.
 
-**Focus:** Code intelligence · Search · Context retrieval
+**Code Intelligence · Search · Context Retrieval**
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
 
 ## `04` — Featured Work
 
-### Vṛttāntam
+<div align="center">
+
+### ✦ Vṛttāntam
 
 **AI-Powered Resume Ecosystem**
 
-> An AI-driven resume platform designed to help professionals create,
-> improve, and optimize resumes for ATS-oriented workflows.
+An intelligent resume-building platform that helps professionals create,
+improve, and optimize resumes for ATS-oriented workflows.
 
-| Area | Implementation |
-| :--- | :--- |
-| Frontend & Backend | React.js · Node.js · Express |
-| Data & Processing | MongoDB · Redis · BullMQ |
-| AI | Google Gemini API |
-| Storage | AWS S3 |
+<br />
 
-**Engineering highlights**
+<img src="https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=68A063" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+<img src="https://img.shields.io/badge/BullMQ-161B22?style=flat-square&logoColor=white" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=white" alt="Google Gemini API" />
 
-- Full-stack resume-building experience.
-- AI-assisted resume optimization.
-- Asynchronous processing with Redis and BullMQ.
-- Cloud-based file storage and backend services.
+</div>
+
+**What makes it interesting**
+
+- Full-stack resume-building workflow.
+- AI-assisted resume analysis and optimization.
+- Background processing using Redis and BullMQ.
+- Cloud-based file storage with AWS S3.
+
+**Engineering focus**
+
+`AI Integration` · `Asynchronous Processing` · `File Storage` · `Backend Architecture`
+
+<div align="center">
 
 <a href="https://github.com/kartikey116">
-  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+  <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
+
+</div>
 
 ---
 
-### Event-Driven Order Processing
+<div align="center">
+
+### ⚡ Event-Driven Order Processing
 
 **Backend Systems · Asynchronous Workflows**
 
-Exploring reliable order processing through service separation,
-persistent data, and event-driven backend workflows.
+</div>
 
-**Key areas**
+A backend engineering project exploring how order processing can be
+structured around independent services, persistent data, and asynchronous
+workflows.
 
-- Backend service architecture.
-- Order lifecycle and background processing.
-- Database persistence.
+**What it explores**
+
+- Order lifecycle and service separation.
+- Background processing and event-driven workflows.
+- Database persistence and reliable processing.
 - Containerized development with Docker.
 
+**Engineering focus**
+
+`Backend Architecture` · `Event-Driven Systems` · `Docker` · `Data Persistence`
+
+<div align="center">
+
 <a href="https://github.com/kartikey116">
-  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+  <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
+
+</div>
 
 ---
 
-### Local Codebase Context Engine
+<div align="center">
+
+### 🔍 Local Codebase Context Engine
 
 **Code Intelligence · RAG · Semantic Search**
 
-An exploration into a local developer tool that indexes repository files
-and retrieves relevant code context for coding queries.
+</div>
 
-**Key areas**
+An exploration into building a local developer tool that indexes
+repository files and retrieves relevant code context for coding queries.
+
+**What it explores**
 
 - Code-aware repository indexing.
 - Semantic search over source files.
 - Context retrieval for developer questions.
-- Exploring syntax-tree-based code understanding.
+- Syntax-tree-based code understanding.
+
+**Engineering focus**
+
+`Code Intelligence` · `RAG` · `Semantic Search` · `Repository Indexing`
+
+<div align="center">
 
 <a href="https://github.com/kartikey116">
-  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+  <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
+
+</div>
 
 ---
 
