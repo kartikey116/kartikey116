@@ -181,7 +181,7 @@ improve, and optimize resumes for ATS-oriented workflows.
 
 <div align="center">
 
-<a href="https://github.com/kartikey116">
+<a href="[https://github.com/kartikey116](https://github.com/kartikey116/ResumeBuilder-Vrttantam)">
   <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
@@ -214,7 +214,7 @@ workflows.
 
 <div align="center">
 
-<a href="https://github.com/kartikey116">
+<a href="[https://github.com/kartikey116](https://github.com/kartikey116/distributed-order-engine)">
   <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
