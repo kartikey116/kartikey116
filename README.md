@@ -22,10 +22,7 @@
 <br/><br/>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=kartikey116&label=Profile%20Views&color=58A6FF&style=for-the-badge"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=kartikey116&label=Profile%20Views&color=58A6FF&style=for-the-badge">
 </p>
 
 </div>
