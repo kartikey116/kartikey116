@@ -21,7 +21,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kartikey116&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views"/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=kartikey116&label=Profile%20Views&color=58A6FF&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
 
 </div>
 
